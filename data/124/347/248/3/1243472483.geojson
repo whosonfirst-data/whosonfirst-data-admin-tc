@@ -41,7 +41,7 @@
         "gn:id":11201598
     },
     "wof:country":"TC",
-    "wof:geomhash":"0c002a9cbacdb148c3b148798f24de72",
+    "wof:geomhash":"6243f120de190925e83532f51400a4ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -72.21051999999997,
     21.78134
 ],
-  "geometry": {"coordinates":[-72.21051999999997,21.78134],"type":"Point"}
+  "geometry": {"coordinates":[-72.21052,21.78134],"type":"Point"}
 }
